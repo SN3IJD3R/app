@@ -30,20 +30,12 @@ La aplicación implementa un **Sistema de Gestión** simple, con autenticación 
 | Menu Item (`JMenuItem`) | ✅ |
 | Interfaz de Logueo | ✅ |
 
----
-
-## 🖥️ Capturas de pantalla (opcional)
-> *(Puedes agregar imágenes aquí cuando las tengas)*  
-
-| Login | Ventana Principal |
-|:--:|:--:|
-| ![Login Screenshot](https://via.placeholder.com/400x250?text=Login+Screen) | ![Main Screenshot](https://via.placeholder.com/400x250?text=Main+Window) |
-
----
 
 ## 🔐 Credenciales de acceso
 
 Usa estas credenciales para iniciar sesión en la aplicación:
+usuario: admin
+contraseña: 071727
 
 usurario: admin 
 contraseña: 071727# app
